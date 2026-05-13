@@ -116,8 +116,12 @@
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [archive_20260512_232821](https://github.com/siamak/GitBrowse/tree/main/downloads/archive_20260512_232821)
+
+2. [arm64](https://github.com/siamak/GitBrowse/tree/main/downloads/arm64)
 
 ---
